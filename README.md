@@ -20,6 +20,18 @@ React 18, Performance
 
 JavaScript
 
-#### TO DO:
+[1.6: Node.js REST API with Express & MongoDB - Solid Architecture](/1.6/)
 
-NodeJS Courses
+JS Basics - Node.js - Express - Mongo/Mongoose - RESTful API - JWT Authentication
+
+[1.6: Unit Testing and Test Driven Development in NodeJS](/1.6/)
+
+TDD, Unit testing, Mocha, Chai
+
+[1.7: Node JS: Advanced Concepts](/1.7/)
+
+Master the Event Loop, Redis caching, scalable image and file upload AWS S3, Worker Threads and Clustering to dramatically improve the performance of Node servers, automated browser testing to your Node server.
+
+[1.8: Multithreaded JavaScript - Concurrency Beyond the Event Loop](/notes/1.8/)
+
+Multithreading, Concurrency, Parallelism. Web workers and node.js multithreading.
